@@ -1,6 +1,7 @@
 # Ignore everything in the root except the "DesktopModules" directory.
 /*
 !.gitignore
+!.gitattributes
 !DesktopModules/
 
 # Ignore everyting in the "DesktopModules" directory, except "dpoehler".
