@@ -1,0 +1,9 @@
+# Ignore everything in the root except the "DesktopModules" directory.
+/*
+!.gitignore
+!DesktopModules/
+
+# Ignore everyting in the "DesktopModules" directory, except "dpoehler".
+DesktopModules/*
+!DesktopModules/dpoehler/
+!DesktopModules/dpoehler/*
